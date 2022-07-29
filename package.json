@@ -2,6 +2,7 @@
   "name": "mast-lending",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://olshepete.github.io/mast-lending/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.0",
     "@testing-library/jest-dom": "^5.16.4",
